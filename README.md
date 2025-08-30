@@ -1,4 +1,4 @@
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/14964ef7-ca51-4bd3-ad64-820fde8a8649" /><h1 align="center">Hi 👋, I'm Anish Chand </h1>
+<img width="300" height="168" alt="image" src="" /><h1 align="center">Hi 👋, I'm Anish Chand </h1>
 <h3 align="center">A passionate Cyber Security Analyst </h3>
 
 <p align="left"> <img src="https://www.cxoinsightme.com/wp-content/uploads/2021/03/shutterstock_1156539508-scaled.jpg" /> </p>
