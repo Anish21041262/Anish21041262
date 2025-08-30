@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anish Chand </h1>
 <h3 align="center">A passionate Cyber Security Analyst </h3>
 
-<!-- Keeping only the main image you wanted -->
+<!-- Main image enlarged -->
 <p align="center"> 
-  <img src="https://www.cxoinsightme.com/wp-content/uploads/2021/03/shutterstock_1156539508-scaled.jpg" width="600"/> 
+  <img src="https://www.cxoinsightme.com/wp-content/uploads/2021/03/shutterstock_1156539508-scaled.jpg" width="800"/> 
 </p>
 
-- 💬 Ask me about **Cyber Threat Intelligence, Hypothesis Hunting, and IOC Hunting**
+- 💬 Ask me about **Cyber Threat Intelligence, Hypothesis Hunting, and IOC-Based Hunting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,18 +16,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<!-- Cyber Threat Intelligence & Security -->
+<!-- Cyber Threat Intelligence & Security (new reliable icons) -->
 <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/MITRE_Att%26ck_Logo.png" alt="mitre" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/MITRE_Att%26ck_Logo.png" alt="mitre" width="50" height="50"/> 
 </a> 
-<a href="https://www.sans.org/cyber-security/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cybersecurity-technology-flaticons-lineal-color-flat-icons.png" alt="cti" width="40" height="40"/> 
+<a href="https://www.crowdstrike.com/cybersecurity-101/threat-intelligence/" target="_blank" rel="noreferrer"> 
+  <img src="https://img.icons8.com/color/96/cyber-security.png" alt="cyber threat intelligence" width="50" height="50"/> 
 </a> 
 <a href="https://learn.microsoft.com/en-us/azure/sentinel/hunting" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/fluency/48/target.png" alt="hypothesis hunting" width="40" height="40"/> 
+  <img src="https://img.icons8.com/fluency/96/target.png" alt="hypothesis hunting" width="50" height="50"/> 
 </a> 
 <a href="https://www.virustotal.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.virustotal.com/ui-public/images/icons/favicon-32x32.png" alt="ioc hunting" width="40" height="40"/> 
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-bug-coding-and-development-flat-flat-juicy-fish.png" alt="ioc hunting" width="50" height="50"/> 
 </a> 
 
 <!-- Programming languages -->
@@ -53,7 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
