@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" /> </p>
 
-- 🔭 I’m currently working on **Emotion Detector Project**
-
-- 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **I have keen knowledge in C,C++,HTML ,CSS And JS**
+- 💬 Ask me about **I have keen knowledge in Cyber Threat Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
