@@ -1,7 +1,7 @@
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/14964ef7-ca51-4bd3-ad64-820fde8a8649" /><h1 align="center">Hi 👋, I'm Anish Chand </h1>
 <h3 align="center">A passionate Cyber Security Analyst </h3>
 
-<p align="left"> <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/top_5_valuable_ethical_hacking_tools.jpg" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 💬 Ask me about **I have keen knowledge in Cyber Threat Intelligence**
 
